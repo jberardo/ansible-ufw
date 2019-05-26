@@ -10,7 +10,7 @@ None.
 
 See `defaults/main.yml`.
 
-ufw_dependencies: Required apt packages
+`ufw_dependencies`: Required apt packages
 
 `ufw_default_incoming_policy`: Allow or deny incoming packets
 
