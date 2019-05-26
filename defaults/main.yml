@@ -1,5 +1,8 @@
 # defaults file for ufw
 ---
+ufw_dependencies:
+  - ufw
+
 ufw_default_incoming_policy: deny
 ufw_default_outgoing_policy: allow
 
